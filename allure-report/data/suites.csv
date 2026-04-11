@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5755","Registration success","chromium","2026-04-11","passed","2026-04-11","Register test","myfirst.spec.js","",""
+"","5087","Login validation","chromium","2026-04-11","passed","2026-04-11","Login test","myfirst.spec.js","",""
